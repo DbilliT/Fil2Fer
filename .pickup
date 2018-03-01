@@ -1,0 +1,40 @@
+Repo: ramassage-tek@git.epitech.eu:/lecler_2/gfx_fdf2
+City: MPL
+Status: Success
+Logs: [0/3] OK. 
+Date: Tue, 22 Dec 2015 11:54:13
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit 39534452d9a350f7e8f69b2a9f736a6ee0e33d31
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 20 21:23:12 2015 +0100
+| 
+|     Final
+|  
+* commit d3bac33071841d8937c1fa9444486eaf477846c6
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 20 20:24:56 2015 +0100
+| 
+|     Ajout parrallelepipede
+|  
+* commit 9481926160b7f1e6b711e5a8b211b8a7f375d5f4
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 20 18:38:35 2015 +0100
+| 
+|     src to tcore
+|  
+* commit f59d3c388a69fd81ec26d39457e699ed67951b60
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 20 13:42:51 2015 +0100
+| 
+|     Ajout algorithme de tri
+|  
+* commit 029636bc83c02214c68880202ec84fa748eab36f
+  Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+  Date:   Sat Dec 19 23:12:38 2015 +0100
+  
+      Amélioration foret de if keypress
